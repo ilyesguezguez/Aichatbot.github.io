@@ -97,7 +97,7 @@ toggle.addEventListener('click',function(){
 
 //alert
 
-var validAge = false;
+/*var validAge = false;
 
 while (!validAge) {
     var ageInput = prompt("Quel est votre âge?");
@@ -124,7 +124,7 @@ while (!validAge) {
     } else {
         alert("Veuillez entrer un nombre valide.");
     }
-}
+}*/
 
 
 
